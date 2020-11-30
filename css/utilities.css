@@ -1,0 +1,39 @@
+/*Text colors*/
+.text-primary{
+  color: #28a745;
+}
+
+.text-secondary{
+  color: #0284d0;
+}
+
+.btn{
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 30px;
+  color: #fff;
+  background-color: #28a745;
+  border: none;
+  border-radius: 5px;
+
+}
+
+.btn:hover{
+  opacity: 0.9;
+}
+.btn-primary{
+  color: #fff;
+  background: #28a745;
+}
+.btn-secondary{
+  color: #fff;
+  background: #0284d0;
+}
+.btn-dark{
+  color: #fff;
+  background: #333;
+}
+.btn-light{
+  color: #fff;
+  background: #f4f4f4;
+}
